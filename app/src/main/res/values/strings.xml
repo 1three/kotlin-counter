@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">counter</string>
+    <string name="plus">+</string>
+    <string name="init">초기화</string>
+</resources>
